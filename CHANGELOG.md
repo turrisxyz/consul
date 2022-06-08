@@ -2,6 +2,18 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
+## [1.5.0](https://github.com/consul/consul/tree/1.5.0) (2022-05-xx)
+
+[Full Changelog](https://github.com/consul/consul/compare/1.4.1...1.5.0)
+
+### Added
+
+### Changed
+
+### Fixed
+
+### Removed
+
 ## [1.4.1](https://github.com/consul/consul/tree/1.4.1) (2021-11-25)
 
 [Full Changelog](https://github.com/consul/consul/compare/1.4.0...1.4.1)
